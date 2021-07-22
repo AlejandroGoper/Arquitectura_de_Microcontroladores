@@ -1,0 +1,9 @@
+# ======================
+#    Ignorar archivos
+# ======================
+
+build/
+debug/
+dist/
+nbproject/
+Makefile
